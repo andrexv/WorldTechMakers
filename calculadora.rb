@@ -1,3 +1,4 @@
+# w qwej qwe q
 puts "Menu"
 puts "1. sumar"
 puts "2. restar"
